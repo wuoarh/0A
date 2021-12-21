@@ -1,4 +1,4 @@
-## 0A SimpleMenu Theme
+## 0A-black SimpleMenu Theme
 
 Based on the Pixel theme for GMenu2X, by RafaVico
 
