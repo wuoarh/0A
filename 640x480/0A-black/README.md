@@ -1,5 +1,11 @@
 ## 0A-black SimpleMenu Theme
 
+Based on the 0A SimpleMenu theme by fgl82 - mainly adjusted general background to be near-black while keeping its patterns. Less glaring for transparent png covers.
+
+![Preview](https://github.com/wuoarh/0A-black/blob/main/640x480/0A-black/resources/general/background.png?raw=true "Preview")
+
+---
+
 Based on the Pixel theme for GMenu2X, by RafaVico
 
 ---
